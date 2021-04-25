@@ -5,7 +5,7 @@
 ### **Contents:**
 ### [Week 1](https://github.com/Luise8/CS50_2021/tree/main/week1)
  * [Lab 1: Population Growth](https://github.com/Luise8/CS50_2021/tree/main/week1/lab1)
- * [Problem Set 1:](https://github.com/Luise8/CS50_2021/tree/main/week1/pset1) C - Assignments 1
+ * [Problem Set 1: C - ](https://github.com/Luise8/CS50_2021/tree/main/week1/pset1)[Assignments 1](https://cs50.harvard.edu/x/2021/psets/1/)
    * [Hello](https://github.com/Luise8/CS50_2021/tree/main/week1/pset1/hello)
    * [Mario (less)](https://github.com/Luise8/CS50_2021/tree/main/week1/pset1/mario/less)
    * [Mario (more)](https://github.com/Luise8/CS50_2021/tree/main/week1/pset1/mario/more)
