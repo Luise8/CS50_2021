@@ -4,19 +4,19 @@ I made this repository to post my solutions to Harvard University's 2021 CS50 in
 
 **Contents:**
 * Week1
-  * Lab 1: Population Growth
-  * Problem Set 1: C - Assignments 1
+ * Lab 1: Population Growth
+ * Problem Set 1: C - Assignments 1
    * Hello
    * Mario (less)
    * Mario (more)
    * Cash
    * credit
  * Problem Set 2: Crypto - Assignments 2
-  * Caesar
-  * Substitution
-  * Readability
+   * Caesar
+   * Substitution
+   * Readability
  * Problem Set3: Elections - Assignments 3
-  * plurality
+   * plurality
 runoff
 tideman
 Problem Set 4: Forensics - Assignments 4
