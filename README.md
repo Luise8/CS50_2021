@@ -16,30 +16,28 @@ I made this repository to post my solutions to Harvard University's 2021 CS50 in
    * Substitution
    * Readability
  * Problem Set3: Elections - Assignments 3
-   * plurality
-runoff
-tideman
-Problem Set 4: Forensics - Assignments 4
-filter
-less
-more
-recover
-Problem Set 5: Speller - Speller assignment
-dictionary.c
-Problem Set 6: Python - Assignments 6
-hello
-mario
-less
-more
-cash
-credit
-readability
-dna
-Problem Set 7: SQL - Assignments 7
-movies
-houses
-Problem Set 8: Web - Web Tracks
-finance
-Final Project: Lispy
-An interpreted, functional programming language based on Lisp and written in C.
-Follow the instructions to try it in your ide!
+   * Plurality
+   * Runoff
+   * Tideman
+ * Problem Set 4: Forensics - Assignments 4
+   * Filter
+   * Less
+   * More
+   * Recover
+ * Problem Set 5: Speller - Speller assignment
+   * Dictionary.c
+ * Problem Set 6: Python - Assignments 6
+   * Hello
+   * Mario (less)
+   * Mario (more)
+   * Cash
+   * Credit
+   * Readability
+   * Dna
+ * Problem Set 7: SQL - Assignments 7
+   * Movies
+   * Houses
+ * Problem Set 8: Web - Web Tracks
+   * Finance
+ * Final Project: What it is
+   * Explanation of my program and the language in which it is written.
