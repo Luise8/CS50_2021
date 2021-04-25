@@ -50,4 +50,4 @@
  * Final Project: What it is
    * Explanation of my program and the language in which it is written.
 
-This was my first encounter with programming. I can say that I learned a lot. It is also important to mention that it took me some time to try to solve each exercise at the beginning, but in the end I was able to improve my ability to think of ways to fit all the tools. Each solution is its own, it may not be the most efficient, but it is made by me, and for that I am proud. Finally, I would like to deeply thank the CS50 course for allowing me to start in this wonderful world.
+##### This was my first encounter with programming. I can say that I learned a lot. It is also important to mention that it took me some time to try to solve each exercise at the beginning, but in the end I was able to improve my ability to think of ways to fit all the tools. Each solution is its own, it may not be the most efficient, but it is made by me, and for that I am proud. Finally, I would like to deeply thank the CS50 course for allowing me to start in this wonderful world.
