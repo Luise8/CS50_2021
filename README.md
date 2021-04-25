@@ -4,9 +4,9 @@
 
 ### **Contents:**
 ### Week 1
- * [Lab 1: Population Growth]()
- * Problem Set 1: C - Assignments 1
-   * Hello
+ * [Lab 1: Population Growth](https://github.com/Luise8/CS50_2021/tree/main/Pset1)
+ * [Problem Set 1:](https://github.com/Luise8/CS50_2021/tree/main/Pset1) C - Assignments 1
+   * [Hello](https://github.com/Luise8/CS50_2021/tree/main/Pset1)
    * Mario (less)
    * Mario (more)
    * Cash
