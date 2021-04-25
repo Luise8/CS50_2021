@@ -3,14 +3,14 @@
 ### I made this repository to post my solutions to Harvard University's 2021 CS50 intro course followed on [**edx**](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x).
 
 ### **Contents:**
-### Week 1
- * [Lab 1: Population Growth](https://github.com/Luise8/CS50_2021/tree/main/Pset1)
- * [Problem Set 1:](https://github.com/Luise8/CS50_2021/tree/main/Pset1) C - Assignments 1
-   * [Hello](https://github.com/Luise8/CS50_2021/tree/main/Pset1)
-   * Mario (less)
-   * Mario (more)
-   * Cash
-   * credit
+### [Week 1](https://github.com/Luise8/CS50_2021/tree/main/week1)
+ * [Lab 1: Population Growth](https://github.com/Luise8/CS50_2021/tree/main/week1/lab1)
+ * [Problem Set 1:](https://github.com/Luise8/CS50_2021/tree/main/week1/pset1) C - Assignments 1
+   * [Hello](https://github.com/Luise8/CS50_2021/tree/main/week1/pset1/hello)
+   * [Mario (less)](https://github.com/Luise8/CS50_2021/tree/main/week1/pset1/mario/less)
+   * [Mario (more)](https://github.com/Luise8/CS50_2021/tree/main/week1/pset1/mario/more)
+   * [Cash]
+   * [Credit]
 ### Week 2   
  * Problem Set 2: Crypto - Assignments 2
    * Caesar
