@@ -1,2 +1,5 @@
-# CS50_2021
-Harvard's cs50: Solutions to problem sets from CS50's Introduction to Computer Science🚀
+# CS50 Introduction To Computer Science
+
+I made this repository to post my solutions to Harvard University's 2021 CS50 intro course followed on <a href="https://silicodevalley.com" target="edx">edx</a>.
+
+Contents:
