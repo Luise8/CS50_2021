@@ -4,9 +4,9 @@ I made this repository to post my solutions to Harvard University's 2021 CS50 in
 
 **Contents:**
 * Week1
-*  Lab 1: Population Growth
-*  Problem Set 1: C - Assignments 1
-*   hello
+  * Lab 1: Population Growth
+  * Problem Set 1: C - Assignments 1
+    * hello
 Mario (less)
 Mario (more)
 cash
