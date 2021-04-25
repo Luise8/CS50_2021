@@ -4,7 +4,7 @@
 
 ### **Contents:**
 ### Week 1
- * Lab 1: Population Growth
+ * [Lab 1: Population Growth]()
  * Problem Set 1: C - Assignments 1
    * Hello
    * Mario (less)
