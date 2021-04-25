@@ -13,26 +13,26 @@
    * [Credit]
 ### Week 2   
  * Lab 2: Scrabble
- * Problem Set 2: Crypto - Assignments 2
+ * Problem Set 2: Arrays (C) - Assignments 2
    * Caesar
    * Substitution
    * Readability
 ### Week 3   
  * Lab 3: Sort
- * Problem Set3: Elections - Assignments 3
+ * Problem Set3: Algorithms (C) - Assignments 3
    * Plurality
    * Runoff
    * Tideman
 ### Week 4   
  * Lab 4: Volume
- * Problem Set 4: Forensics - Assignments 4
+ * Problem Set 4: Memory (C) - Assignments 4
    * Filter
    * Less
    * More
    * Recover
 ### Week 5 
  * Lab 5: Inheritance
- * Problem Set 5: Speller - Speller assignment
+ * Problem Set 5: Data Structures (C) - Assignments 5
    * Dictionary.c
 ### Week 6   
  * Lab 6: World Cup
@@ -51,13 +51,17 @@
    * Houses
 ### Week 8
  * Lab 8: Trivia
- * Problem Set 8: Web - Web Tracks
+ * Problem Set 8: HTML, CSS, JavaScript - Assignments 8
    * Homepage
+### Security   
 ### Week 9   
  * Lab 9: Birthdays 
- * Problem Set 9: 
+ * Problem Set 9: Flask & AJAX - Assignments 9
   * Finance 
- * Final Project: What it is
+### Artificial Intelligence  
+### Week 10
+ * Lab 10: Ethics
+### Final Project: What it is
    * Explanation of my program and the language in which it is written.
    
 ### About the experience
