@@ -12,25 +12,30 @@
    * [Cash]
    * [Credit]
 ### Week 2   
+ * Lab 2: Scrabble
  * Problem Set 2: Crypto - Assignments 2
    * Caesar
    * Substitution
    * Readability
 ### Week 3   
+ * Lab 3: Sort
  * Problem Set3: Elections - Assignments 3
    * Plurality
    * Runoff
    * Tideman
 ### Week 4   
+ * Lab 4: Volume
  * Problem Set 4: Forensics - Assignments 4
    * Filter
    * Less
    * More
    * Recover
 ### Week 5 
+ * Lab 5: Inheritance
  * Problem Set 5: Speller - Speller assignment
    * Dictionary.c
 ### Week 6   
+ * Lab 6: World Cup
  * Problem Set 6: Python - Assignments 6
    * Hello
    * Mario (less)
@@ -40,15 +45,20 @@
    * Readability
    * Dna
 ### Week 7   
+ * Lab 7: Songs
  * Problem Set 7: SQL - Assignments 7
    * Movies
    * Houses
 ### Week 8
+ * Lab 8: Trivia
  * Problem Set 8: Web - Web Tracks
-   * Finance
+   * Homepage
 ### Week 9   
+ * Lab 9: Birthdays 
+ * Problem Set 9: 
+  * Finance 
  * Final Project: What it is
    * Explanation of my program and the language in which it is written.
    
-### Reflection on the experience
+### About the experience
 > This was my first encounter with programming. I can say that I learned a lot. It is also important to mention that it took me some time to try to solve each exercise at the beginning, but in the end I was able to improve my ability to think of ways to fit all the tools. Each solution is its own, it may not be the most efficient, but it is made by me, and for that I am proud. Finally, I would like to deeply thank the CS50 course for allowing me to start in this wonderful world.
