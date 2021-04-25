@@ -1,8 +1,8 @@
 # CS50 Introduction To Computer Science
 
-I made this repository to post my solutions to Harvard University's 2021 CS50 intro course followed on [**edx**](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x).
+### I made this repository to post my solutions to Harvard University's 2021 CS50 intro course followed on [**edx**](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x).
 
-## **Contents:**
+### **Contents:**
 ### Week 1
  * Lab 1: Population Growth
  * Problem Set 1: C - Assignments 1
@@ -21,16 +21,16 @@ I made this repository to post my solutions to Harvard University's 2021 CS50 in
    * Plurality
    * Runoff
    * Tideman
-# Week 4   
+### Week 4   
  * Problem Set 4: Forensics - Assignments 4
    * Filter
    * Less
    * More
    * Recover
-# Week 5 
+### Week 5 
  * Problem Set 5: Speller - Speller assignment
    * Dictionary.c
-# Week 6   
+### Week 6   
  * Problem Set 6: Python - Assignments 6
    * Hello
    * Mario (less)
@@ -39,13 +39,15 @@ I made this repository to post my solutions to Harvard University's 2021 CS50 in
    * Credit
    * Readability
    * Dna
-# Week 7   
+### Week 7   
  * Problem Set 7: SQL - Assignments 7
    * Movies
    * Houses
-# Week 8
+### Week 8
  * Problem Set 8: Web - Web Tracks
    * Finance
-# Week 9   
+### Week 9   
  * Final Project: What it is
    * Explanation of my program and the language in which it is written.
+
+This was my first encounter with programming. I can say that I learned a lot. It is also important to mention that it took me some time to try to solve each exercise at the beginning, but in the end I was able to improve my ability to think of ways to fit all the tools. Each solution is its own, it may not be the most efficient, but it is made by me, and for that I am proud.
