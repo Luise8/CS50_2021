@@ -9,7 +9,7 @@
    * [Hello](https://github.com/Luise8/CS50_2021/tree/main/week1/pset1/hello)
    * [Mario (less)](https://github.com/Luise8/CS50_2021/tree/main/week1/pset1/mario/less)
    * [Mario (more)](https://github.com/Luise8/CS50_2021/tree/main/week1/pset1/mario/more)
-   * [Cash]
+   * [Cash](https://github.com/Luise8/CS50x-2021/tree/main/week1/pset1/cash)
    * [Credit]
 ### Week 2   
  * Lab 2: Scrabble
