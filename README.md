@@ -10,7 +10,7 @@
    * [Mario (less)](https://github.com/Luise8/CS50_2021/tree/main/week1/pset1/mario/less)
    * [Mario (more)](https://github.com/Luise8/CS50_2021/tree/main/week1/pset1/mario/more)
    * [Cash](https://github.com/Luise8/CS50x-2021/tree/main/week1/pset1/cash)
-   * [Credit]
+   * [Credit](https://github.com/Luise8/CS50x-2021/blob/main/week1/pset1/credit/credit.c)
 ### Week 2   
  * Lab 2: Scrabble
  * Problem Set 2: Arrays (C) - Assignments 2
