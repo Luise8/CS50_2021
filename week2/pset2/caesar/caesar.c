@@ -23,7 +23,6 @@ int main(int argc, string argv[])
     // Check that all key are digits. In this case, start converting string to int of key 
     if (check_two == 0)
     {
-        printf("Success\n"); 
         key = atoi(argv[1]);
     }
     else
