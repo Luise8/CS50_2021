@@ -16,7 +16,7 @@
  * [Problem Set 2: Arrays (C)](https://github.com/Luise8/CS50x-2021/tree/main/week2/pset2) - [Assignments 2](https://cs50.harvard.edu/x/2021/psets/2/) 
    * [Readability](https://github.com/Luise8/CS50x-2021/tree/main/week2/pset2/readability)
    * [Caesar](https://github.com/Luise8/CS50x-2021/tree/main/week2/pset2/caesar)
-   * Substitution
+   * [Substitution](https://github.com/Luise8/CS50x-2021/tree/main/week2/pset2/substitution)
 ### Week 3   
  * Lab 3: Sort
  * Problem Set3: Algorithms (C) - Assignments 3
