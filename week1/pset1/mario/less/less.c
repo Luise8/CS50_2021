@@ -13,15 +13,15 @@ int main(void)
 
     // Iterate from 1 through height:
     //On iteration i, print i hashes and rest of spaces to complete 8 char and then a newline
-    for (int starheight = 0; starheight < height; starheight++)
+    for (int startheight = 0; startheight < height; startheight++)
     {
         // print the remaining amount of characters to reach 8 in the form of spaces decreasing
-        for (int j = height - 1; j > starheight; j--)
+        for (int j = height - 1; j > startheight; j--)
         {
             printf(" ");
         }
         // Print height in form of # increasing
-        for (int k = 0; k < starheight + 1; k++)
+        for (int k = 0; k < startheight + 1; k++)
         {
             printf("#");
         }
