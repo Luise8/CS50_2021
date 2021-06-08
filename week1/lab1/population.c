@@ -2,7 +2,7 @@
 #include <stdio.h>
 int main(void)
 {
-    // TODO: Prompt for start size
+    // Prompt for start size
     int startsize;
     do
     {
@@ -17,8 +17,8 @@ int main(void)
         endsize = get_int("End population?\n");
     }
     while (endsize < startsize);
-    // TODO: Calculate number of years until we reach threshold
-
+    
+    // Calculate number of years until we reach threshold
     int n = startsize;
     int years = 0;
     while (n < endsize)
@@ -26,6 +26,6 @@ int main(void)
         n = n + (n / 3) - (n / 4);
         years++;
     }
-    // TODO: Print number of years
+    // Print number of years
     printf("Years: %i", years);
 }
