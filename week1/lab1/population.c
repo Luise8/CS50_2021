@@ -10,7 +10,7 @@ int main(void)
     }
     while (startsize < 9);
 
-    // TODO: Prompt for end size
+    // Prompt for end size
     int endsize;
     do
     {
