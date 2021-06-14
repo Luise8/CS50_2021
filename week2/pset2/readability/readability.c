@@ -42,7 +42,7 @@ int main(void)
         printf("Grade %i\n", index);
     }
 }
-// TODO: Compute number of letters, spaces and punctuation (', ! and .), and return number of letters.
+// Compute number of letters, spaces and punctuation (', ! and .), and return number of letters.
 int compute_letter(string text1)
 {
     int num_letter = 0;
