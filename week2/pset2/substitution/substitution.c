@@ -26,7 +26,6 @@ int main(int argc, string argv[])
     // Check that all key (in lower) is letters. In this case, assign the argv[1] in lowercase to key variable  
     if (check_two == 0 && check_three == 2847) // 2847 is value alphabet in lower. 
     {
-        printf("Success\n"); 
         key = key_tolower(argv[1]);
     }
     else
