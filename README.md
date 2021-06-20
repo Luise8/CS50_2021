@@ -18,7 +18,7 @@
    * [Caesar](https://github.com/Luise8/CS50x-2021/tree/main/week2/pset2/caesar)
    * [Substitution](https://github.com/Luise8/CS50x-2021/tree/main/week2/pset2/substitution)
 ### Week 3   
- * Lab 3: Sort
+ * [Lab 3: Sort](https://github.com/Luise8/CS50x-2021/tree/main/week3/lab3)
  * Problem Set3: Algorithms (C) - Assignments 3
    * Plurality
    * Runoff
