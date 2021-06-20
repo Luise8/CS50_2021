@@ -1,0 +1,11 @@
+sort1 uses: bubble sort
+
+How do you know?: In the best case, when the list is ordered, omega is n. So it turns out faster than the other three programs. For sorted50000.txt sort1 was 16s, for sort2 it was 19s and for sort3 it was 30s.
+
+sort2 uses: merge sort
+
+How do you know?: When compared to the other programs, it achieved lower times in random and reversed lists. This is because it has an O (n log n) versus O (n²), which is obviously less.
+
+sort3 uses: selection sort
+
+How do you know?: By simple discard. Similarly, it has an O (n²) and a Ω (n²), that is, it has a Theta (n²). Therefore their times remain constant when comparing random, reversed and sorted.
