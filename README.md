@@ -11,16 +11,16 @@
    * [Mario (more)](https://github.com/Luise8/CS50_2021/tree/main/week1/pset1/mario/more)
    * [Cash](https://github.com/Luise8/CS50x-2021/tree/main/week1/pset1/cash)
    * [Credit](https://github.com/Luise8/CS50x-2021/blob/main/week1/pset1/credit)
-### Week 2   
+### [Week 2](https://github.com/Luise8/CS50x-2021/tree/main/week2)   
  * [Lab 2: Scrabble](https://github.com/Luise8/CS50x-2021/tree/main/week2/lab2)
  * [Problem Set 2: Arrays (C)](https://github.com/Luise8/CS50x-2021/tree/main/week2/pset2) - [Assignments 2](https://cs50.harvard.edu/x/2021/psets/2/) 
    * [Readability](https://github.com/Luise8/CS50x-2021/tree/main/week2/pset2/readability)
    * [Caesar](https://github.com/Luise8/CS50x-2021/tree/main/week2/pset2/caesar)
    * [Substitution](https://github.com/Luise8/CS50x-2021/tree/main/week2/pset2/substitution)
-### Week 3   
+### [Week 3](https://github.com/Luise8/CS50x-2021/tree/main/week3)   
  * [Lab 3: Sort](https://github.com/Luise8/CS50x-2021/tree/main/week3/lab3)
- * Problem Set3: Algorithms (C) - Assignments 3
-   * Plurality
+ * [Problem Set3: Algorithms (C)](https://github.com/Luise8/CS50x-2021/tree/main/week3/pset3) - [Assignments 3](https://cs50.harvard.edu/x/2021/psets/3/)
+   * [Plurality](https://github.com/Luise8/CS50x-2021/tree/main/week3/pset3/plurality)
    * Runoff
    * Tideman
 ### Week 4   
