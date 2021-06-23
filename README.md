@@ -21,7 +21,7 @@
  * [Lab 3: Sort](https://github.com/Luise8/CS50x-2021/tree/main/week3/lab3)
  * [Problem Set3: Algorithms (C)](https://github.com/Luise8/CS50x-2021/tree/main/week3/pset3) - [Assignments 3](https://cs50.harvard.edu/x/2021/psets/3/)
    * [Plurality](https://github.com/Luise8/CS50x-2021/tree/main/week3/pset3/plurality)
-   * Runoff
+   * [Runoff](https://github.com/Luise8/CS50x-2021/tree/main/week3/pset3/runoff)
    * Tideman
 ### Week 4   
  * Lab 4: Volume
