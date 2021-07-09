@@ -22,7 +22,7 @@
  * [Problem Set3: Algorithms (C)](https://github.com/Luise8/CS50x-2021/tree/main/week3/pset3) - [Assignments 3](https://cs50.harvard.edu/x/2021/psets/3/)
    * [Plurality](https://github.com/Luise8/CS50x-2021/tree/main/week3/pset3/plurality)
    * [Runoff](https://github.com/Luise8/CS50x-2021/tree/main/week3/pset3/runoff)
-   * Tideman
+   * [Tideman](https://github.com/Luise8/CS50x-2021/tree/main/week3/pset3/tideman)
 ### Week 4   
  * Lab 4: Volume
  * Problem Set 4: Memory (C) - Assignments 4
