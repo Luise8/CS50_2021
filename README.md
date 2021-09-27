@@ -23,8 +23,8 @@
    * [Plurality](https://github.com/Luise8/CS50x-2021/tree/main/week3/pset3/plurality)
    * [Runoff](https://github.com/Luise8/CS50x-2021/tree/main/week3/pset3/runoff)
    * [Tideman](https://github.com/Luise8/CS50x-2021/tree/main/week3/pset3/tideman)
-### Week 4   
- * Lab 4: Volume
+### [Week 4](https://github.com/Luise8/CS50x-2021/tree/main/week4)   
+ * [Lab 4: Volume](https://github.com/Luise8/CS50x-2021/tree/main/week4/lab4)
  * Problem Set 4: Memory (C) - Assignments 4
    * Filter
    * Less
