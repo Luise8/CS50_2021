@@ -1,0 +1,1 @@
+The functions I created in this problem set were the helpers.c. But to run they have to be in conjunction with the other .c and .h files
