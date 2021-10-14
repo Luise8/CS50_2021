@@ -28,7 +28,7 @@
  * [Problem Set 4: Memory (C)](https://github.com/Luise8/CS50x-2021/tree/main/week4/pset4) - [Assignments 4](https://cs50.harvard.edu/x/2021/psets/4/)
    * [Filter](https://github.com/Luise8/CS50x-2021/tree/main/week4/pset4/filter)
    * [Less](https://github.com/Luise8/CS50x-2021/tree/main/week4/pset4/filter/less)
-   * More
+   * [More](https://github.com/Luise8/CS50x-2021/tree/main/week4/pset4/filter/more)
    * Recover
 ### Week 5 
  * Lab 5: Inheritance
